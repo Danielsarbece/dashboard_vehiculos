@@ -23,3 +23,5 @@ Este proyecto es una aplicación web interactiva construida con Streamlit. Permi
 
    ```bash
    pip install -r requirements.txt
+## Demo en línea
+https://dashboard-vehiculos-xvgh.onrender.com
